@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Adam",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "3222112",
+      "id": 1
+    },
+    {
+      "name": "Adam",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "3222112",
+      "id": 2
+    },
+    {
+      "name": "Adam",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "3222112",
+      "id": 3
+    },
+    {
+      "name": "TestNew",
+      "email": "testNew@gmail.com",
+      "contact": "03162031928",
+      "address": "Shah Town",
+      "id": 4
+    }
+  ]
+}
